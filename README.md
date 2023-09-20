@@ -11,7 +11,8 @@ https://github.com/prasanthrangan/hyprdots/blob/main/Configs/.config/rofi/styles
 
 # Preview
 Waybar style-1
-![preview](https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/5128e8af-0efd-4277-a97b-13d4109974ad)
+![preview](https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/eb137dd6-5900-43b8-966b-7fc37d8ae0be)
+
 
 Waybar style-2
 ![preview](https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/6a9aebbc-3a56-4ff4-ac64-52009f77ba51)
