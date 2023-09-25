@@ -7,7 +7,7 @@ https://github.com/prasanthrangan/hyprdots.git
 
 # Menu Used
 Rofi 
-https://github.com/prasanthrangan/hyprdots/blob/main/Configs/.config/rofi/styles/style_2.rasi
+(soon will be uploading)
 
 # Preview
 Waybar style-1
