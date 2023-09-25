@@ -21,4 +21,4 @@ Wlogout
 ![wlogout](https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/8e3f3968-e049-4329-a0b7-5d7b7634fd44)
 
 # WorkFlow
-![ezgif com-gif-maker (1)](https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/41443aa1-560d-4ec9-9550-78999e2db1de)
+https://github.com/developer-vivek/Waybar-Wlogout-dots/assets/85994908/8fd15dbc-cb60-4215-920f-57b830bb041f
