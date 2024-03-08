@@ -2,8 +2,7 @@
 Here you will get the customized config file for waybar and wlogout for the hyprdots provided by https://github.com/prasanthrangan
 
 # Theme Used 
-Catppuccin-Mocha 
-https://github.com/prasanthrangan/hyprdots.git
+[Catppuccin-Mocha](https://github.com/prasanthrangan/hyprdots.git)
 
 # Menu Used
 Rofi 
