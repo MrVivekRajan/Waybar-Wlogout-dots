@@ -1,4 +1,6 @@
-# No Longer maintained, Just follow this [Repository](https://github.com/MrVivekRajan/Hypr-Dots) for Hyprland Themes.
+# No Longer maintained.
+# Just follow this [Repository](https://github.com/MrVivekRajan/Hypr-Dots) for Hyprland Themes.
+
 # Waybar-Wlogout-dots
 Here you will get the customized config file for waybar and wlogout for the hyprdots provided by [prasanthrangan](https://github.com/prasanthrangan)
 
